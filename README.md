@@ -1,6 +1,13 @@
 
 # Graphical-Micro-Architecture-Simulator
 
+FORKED FROM:
+https://github.com/arm-university/Graphical-Micro-Architecture-Simulator
+
+Used for educational purposes
+
+Original README:
+
 Welcome to our Graphical-Micro-Architecture-Simulator (BETA version)!
 
 ### [Download the simulator here](https://github.com/arm-university/Graphical-Micro-Architecture-Simulator/archive/refs/heads/main.zip)
